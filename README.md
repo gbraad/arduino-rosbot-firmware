@@ -1,2 +1,3 @@
-# arduino-rosbot-firmware
-Updated version of the Kittenbot Rosbot firmware
+#Kittenbot
+
+This the Arduino Library for kittenbot robot kit
